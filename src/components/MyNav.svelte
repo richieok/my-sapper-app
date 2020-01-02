@@ -33,8 +33,7 @@
   <ul class="nav-list">
     <li><a href=".">Home</a></li>
     <li><a href="/dashboard">Dashboard</a></li>
-    <li><a href="/test/login">Login</a></li>
-    <li><a href="/test/logout">Logout</a></li>
-    <li><a href="/test">Test</a></li>
+    <li><a href="/login">Login</a></li>
+    <li><a href="/logout">Logout</a></li>
   </ul>
 </nav>
