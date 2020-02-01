@@ -1,7 +1,3 @@
-<script>
-  import Button from "../components/Button.svelte";
-</script>
-
 <style>
   :root {
     --dark-transparent: rgba(0, 0, 0, 0.5);
@@ -22,6 +18,7 @@
 
   .statement p {
     padding: 20px 40px;
+    margin: 0;
   }
   .scream {
     text-transform: uppercase;
@@ -29,17 +26,14 @@
 </style>
 
 <svelte:head>
-  <title>Qubit Home</title>
+  <title>Web Design</title>
 </svelte:head>
 
 <div class="statement">
-  <h2 class="scream">Connect your Business</h2>
+  <h2 class="scream">Web Design</h2>
   <p>
-    Let’s help you take your business online.
-    <br />
-    We design full stack web servers in the cloud that keep your business and
-    service always available to you and your clients from anywhere in the world.
+    We are web application developers providing a suite of services to enhance
+    your business growth and productivity. We build secure online services
+    optimized to perform efficiently and reliably.
   </p>
-  <Button href="/login">Learn More</Button>
-  <!-- <a href="/webdesign" class="button">Learn more</a> -->
 </div>

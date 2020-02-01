@@ -1,7 +1,7 @@
 <script>
   import {createEventDispatcher} from "svelte";
   import RegisterForm from "../components/RegisterForm.svelte";
-  const dispatch = createEventDispatcher();
+  // const dispatch = createEventDispatcher();
   let url = 'http://localhost:5515/auth/signup';
   let errorList = [];
 

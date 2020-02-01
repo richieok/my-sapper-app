@@ -29,17 +29,11 @@
 </style>
 
 <svelte:head>
-  <title>Qubit Home</title>
+	<title>Contact Us</title>
 </svelte:head>
 
 <div class="statement">
-  <h2 class="scream">Connect your Business</h2>
-  <p>
-    Let’s help you take your business online.
-    <br />
-    We design full stack web servers in the cloud that keep your business and
-    service always available to you and your clients from anywhere in the world.
-  </p>
-  <Button href="/login">Learn More</Button>
-  <!-- <a href="/webdesign" class="button">Learn more</a> -->
+    <h2 class="scream">Contact Us</h2>
+	<p>Email: info@qubit.com.ng</p>
+	<Button>Whatsapp &nbsp; <i class="fa fa-whatsapp" style="font-size:24px;color:green"></i></Button>
 </div>
