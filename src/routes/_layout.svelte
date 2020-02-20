@@ -37,7 +37,7 @@
   }
 </style>
 
-<img src="https://qubit-bucket.s3.eu-west-2.amazonaws.com/images/asphalt-road-720.jpg" alt="" />
+<img src="asphalt-road-720.jpg" alt="" />
 <MyNav />
 
 <main>
