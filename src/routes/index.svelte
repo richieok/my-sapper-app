@@ -26,13 +26,25 @@
   .scream {
     text-transform: uppercase;
   }
+  .fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  @keyframes fade {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
 </style>
 
 <svelte:head>
   <title>Qubit Home</title>
 </svelte:head>
 
-<div class="statement">
+<div class="statement fade">
   <h2 class="scream">Connect your Business</h2>
   <p>
     Let’s help you take your business online.

@@ -26,13 +26,25 @@
   .scream {
     text-transform: uppercase;
   }
+  .fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  @keyframes fade {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
 </style>
 
 <svelte:head>
 	<title>Contact Us</title>
 </svelte:head>
 
-<div class="statement">
+<div class="statement fade">
     <h2 class="scream">Contact Us</h2>
 	<p>Email: info@qubit.com.ng</p>
 	<Button>Whatsapp &nbsp; <i class="fa fa-whatsapp" style="font-size:24px;color:green"></i></Button>

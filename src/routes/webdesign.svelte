@@ -23,13 +23,25 @@
   .scream {
     text-transform: uppercase;
   }
+  .fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  @keyframes fade {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
 </style>
 
 <svelte:head>
   <title>Web Design</title>
 </svelte:head>
 
-<div class="statement">
+<div class="statement fade">
   <h2 class="scream">Web Design</h2>
   <p>
     We are web application developers providing a suite of services to enhance
