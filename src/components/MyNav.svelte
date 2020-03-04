@@ -136,7 +136,7 @@
 </style>
 
 <nav>
-  <div id="logo">Logo</div>
+  <div id="logo"><img src="https://qubit-bucket.s3.eu-west-2.amazonaws.com/images/qubit_480_white.png" height="65px" alt="Logo"></div>
   <ul class={open ? 'nav-list vertical' : 'nav-list'}>
     <li>
       <a href=".">Home</a>
