@@ -45,7 +45,7 @@
 </svelte:head>
 
 <div class="statement fade">
-    <h2 class="scream">Contact Us</h2>
+    <h1 class="scream">Contact Us</h1>
 	<p>Email: info@qubit.com.ng</p>
-	<Button>Whatsapp &nbsp; <i class="fa fa-whatsapp" style="font-size:24px;color:green"></i></Button>
+	<Button>Whatsapp &nbsp; <i class="fa fa-whatsapp" sty1e="font-size:24px;color:green"></i></Button>
 </div>
