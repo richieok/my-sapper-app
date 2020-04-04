@@ -45,7 +45,7 @@
 </svelte:head>
 
 <div class="statement fade">
-  <h2 class="scream">Connect your Business</h2>
+  <h1 class="scream">Connect your Business</h1>
   <p>
     Let’s help you take your business online.
     <br />

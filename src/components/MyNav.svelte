@@ -142,7 +142,7 @@
       <a href=".">Home</a>
     </li>
     <li>
-      <a href="/webdesign">Webdesign</a>
+      <a href="/webdesign">Web Design</a>
     </li>
     <li>
       <a href="/contact">Contact Us</a>

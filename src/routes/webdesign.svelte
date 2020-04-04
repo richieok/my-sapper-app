@@ -42,7 +42,7 @@
 </svelte:head>
 
 <div class="statement fade">
-  <h2 class="scream">Web Design</h2>
+  <h1 class="scream">Web Design</h1>
   <p>
     We are web application developers providing a suite of services to enhance
     your business growth and productivity. We build secure online services
