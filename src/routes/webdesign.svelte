@@ -1,6 +1,6 @@
 <style>
   :root {
-    --dark-transparent: rgba(0, 0, 0, 0.5);
+    --dark-transparent: rgba(0, 0, 0, 0.4);
   }
 
   .statement {

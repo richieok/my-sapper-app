@@ -5,3 +5,4 @@ yarn-error.log
 /cypress/screenshots/
 /__sapper__/
 /static/asphalt-road-720.jpg
+/static/exploded-circuit.jpg

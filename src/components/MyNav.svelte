@@ -15,7 +15,7 @@
   :root {
     --list-item-h-width: 6rem;
     --list-item-v-width: 8rem;
-    --dark-transparent: rgba(0, 0, 0, 0.3);
+    --dark-transparent: rgba(132, 204, 192, 0.4);
   }
   nav {
     display: flex;
