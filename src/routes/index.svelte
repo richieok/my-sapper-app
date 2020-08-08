@@ -52,6 +52,6 @@
     We design full stack web servers in the cloud that keep your business and
     service always available to you and your clients from anywhere in the world.
   </p>
-  <Button href="/login">Learn More</Button>
+  <Button href="/#">Learn More</Button>
   <!-- <a href="/webdesign" class="button">Learn more</a> -->
 </div>
